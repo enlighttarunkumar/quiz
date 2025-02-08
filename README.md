@@ -55,7 +55,7 @@ A web-based quiz app built with React and Redux, featuring gamification elements
 - Smooth UI interactions  
 
 ## Screenshots & Demo
-![Quiz Start](https://drive.google.com/drive/folders/15nLcGZ5l4dO3HWKKT_RWWeAYQ32mxTkr?usp=drive_link)
+[link](https://drive.google.com/drive/folders/15nLcGZ5l4dO3HWKKT_RWWeAYQ32mxTkr?usp=drive_link)
 
 ## Contributing
 Fork and submit a pull request for improvements!  
